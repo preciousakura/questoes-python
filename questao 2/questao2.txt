@@ -1,0 +1,7 @@
+00030:Fernando Trinta:9.5:10.0:8.7
+00031:Raimundo Vale:9.5:10.0
+00011:José Maria:7.5:6.0:9.8
+00023:Maria José:5.5:5.0:5.7
+00001:Cláudio Santos:9.5:10.0:9.7
+00100:Saulo Diniz:9.5
+00100:Graccho Bolivar:9.5:8.0:7.7

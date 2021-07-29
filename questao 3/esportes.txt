@@ -1,0 +1,5 @@
+1; Futebol
+2; Voleibol
+3; Judô
+4; Natação 
+5; Ginástica
